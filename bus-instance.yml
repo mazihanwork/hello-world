@@ -1,3 +1,4 @@
 info:
-    profile:default
-    from: git-config
+  profile: default
+  from: git-config
+  test: new-property
