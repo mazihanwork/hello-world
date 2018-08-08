@@ -1,5 +1,5 @@
 info:
   profile: default
-  from: git-m-3009only
-  
+  from: git-m
+  test: new-property
 test: bbb
