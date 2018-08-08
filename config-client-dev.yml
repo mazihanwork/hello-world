@@ -2,3 +2,4 @@ info:
         profile: dev
         from: git-config
         test: dev-batch
+        new: 3010
