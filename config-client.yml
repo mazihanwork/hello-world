@@ -1,5 +1,5 @@
 info:
   profile: default
-  from: git-m-2009only
+  from: git-m
   
 test: bbb
